@@ -40,8 +40,6 @@ pkg install nodejs git ffmpeg
 git clone https://github.com/Tayx69/bot-sticker-wa.git
 ```
 
-#
-
 Lalu buka hasil clone:
 
 ```bash
@@ -56,13 +54,13 @@ cd bot-sticker-wa
 npm install
 ```
 
-Ini akan menginstall semua dependency / module dari `package.json`
+Ini akan menginstall semua dependency / module dari `package.json` dan membuat folder `node_modules`
 
 #
 
 ###### ⚠️ Warning
 
-`npm install` bisa error ketika dijalankan di Penyimpanan Internal saya sarankan:
+`npm install` bisa error ketika dijalankan di Penyimpanan Internal dan apa bila tidak ada folder `node_modules` saya sarankan:
 
 ```bash
 cd ~
@@ -89,7 +87,7 @@ Kamu harus Scan QR agar bot bisa login di Whatsapp
 
 - Jangan hapus session Termux
 - Gunakan Termux versi terbaru jangan di Playstore
-- Setelah scan QR kamu akan dapat folder `session/` jangan dibagikan karna itu data login Whatsapp kamu
+- Setelah scan QR kamu akan dapat folder `session` jangan dibagikan karna itu data login Whatsapp kamu
 - Untuk jalankan ulang cukup:
 
 ```bash
