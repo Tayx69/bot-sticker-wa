@@ -56,8 +56,6 @@ npm install
 
 Ini akan menginstall semua dependency / module dari `package.json` dan membuat folder `node_modules`
 
-#
-
 ###### ⚠️ Warning
 
 `npm install` bisa error ketika dijalankan di Penyimpanan Internal dan apa bila tidak ada folder `node_modules` saya sarankan:
