@@ -83,7 +83,7 @@ Kamu harus Scan QR agar bot bisa login di Whatsapp
 
 #### 📌 Catatan
 
-- Jangan hapus session Termux
+- Jangan hapus session Termux jika ingin selalu aktif
 - Gunakan Termux versi terbaru jangan di Playstore
 - Setelah scan QR kamu akan dapat folder `session` jangan dibagikan karna itu data login Whatsapp kamu
 - Untuk jalankan ulang cukup:
