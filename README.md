@@ -1,6 +1,6 @@
 # Bot Sticker WhatsApp
 
-Bot sticker Whatsapp ini berbasis [Baileys.](https://github.com/WhiskeySocket/Baileys)
+Bot sticker Whatsapp ini berbasis [Baileys.](https://github.com/WhiskeySockets/Baileys)
 
 ## 🚀 Fitur
 
