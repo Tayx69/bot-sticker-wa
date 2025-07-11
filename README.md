@@ -18,6 +18,8 @@ Ikuti langkah-langkah berikut unutk menjalankan bot whatsapp di Termux.
 pkg update && pkg upgrade
 ```
 
+#
+
 #### 🧱 2. Install Node.js, Git dan FFmpeg
 
 ```bash
@@ -26,9 +28,11 @@ pkg install nodejs git ffmpeg
 
 > Penjelasan singkat:
 
-    ```nodejs``` = Menjalankan aplikasi bot
-    ```git``` = Untuk clone dari Github
-    ```ffmpeg``` = Wajib untuk fitur sticker & media
+    nodejs = Menjalankan aplikasi bot
+    git = Untuk clone dari Github
+    ffmpeg = Wajib untuk fitur sticker & media
+
+#
 
 #### 📤 3. Clone Repository
 
@@ -36,11 +40,15 @@ pkg install nodejs git ffmpeg
 git clone https://github.com/Tayx69/bot-sticker-wa.git
 ```
 
+#
+
 Lalu buka hasil clone:
 
 ```bash
 cd bot-sticker-wa
 ```
+
+#
 
 #### 📦 4. Install Dependency / Module Node.js
 
@@ -49,6 +57,8 @@ npm install
 ```
 
 Ini akan menginstall semua dependency / module dari `package.json`
+
+#
 
 ###### ⚠️ Warning
 
@@ -61,6 +71,8 @@ cd bot-sticker-wa
 npm install
 ```
 
+#
+
 #### 🚀 5. Jalankan bot
 
 ```bash
@@ -70,6 +82,8 @@ node run.js
 Kamu harus Scan QR agar bot bisa login di Whatsapp
 
 💡 Disarankan menggunakan 2 device untuk tampilkan QR dan scan QR
+
+#
 
 #### 📌 Catatan
 
